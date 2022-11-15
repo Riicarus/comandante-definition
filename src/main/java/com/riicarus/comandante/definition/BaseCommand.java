@@ -1,3 +1,5 @@
+package com.riicarus.comandante.definition;
+
 /**
  * [FEATURE INFO]<br/>
  * 基础指令抽象类
